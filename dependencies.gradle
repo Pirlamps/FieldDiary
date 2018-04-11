@@ -1,0 +1,19 @@
+ext{
+
+    //Kotlin
+    kotlinVersion = '1.2.31'
+
+    //Libraries
+    supportLibraryVersion = '27.1.0'
+    constraintLibraryVersion = '1.0.2'
+    architectureComponentsVersion = '1.1.1'
+    firebaseVersion = '12.0.1'
+
+    //Testing
+    testRunnerVersion = '1.0.1'
+    espressoCoreVersion = '3.0.1'
+    junitVersion = '4.12'
+
+
+
+}
