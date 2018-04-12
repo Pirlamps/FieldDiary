@@ -35,6 +35,7 @@ dependencies {
     implementation "android.arch.lifecycle:extensions:$versions.architectureComponentsVersion"
     implementation "com.google.firebase:firebase-auth:$versions.firebaseVersion"
     implementation "com.google.firebase:firebase-database:$versions.firebaseVersion"
+    implementation "com.android.support:cardview-v7:$versions.supportLibraryVersion"
 
     testImplementation "junit:junit:$versions.junitVersion"
     androidTestImplementation "com.android.support.test:runner:$versions.testRunnerVersion"
