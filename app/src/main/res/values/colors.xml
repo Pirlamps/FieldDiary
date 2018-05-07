@@ -2,9 +2,10 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#e97507c4</color>
+    <color name="colorAccent">#b43e40</color>
+    <!--<color name="colorAccent">#e97507c4</color>-->
     <color name="light_grey_text">#e1dede</color>
     <color name="dark_grey_text">#514f4f</color>
-    <color name="form_backgorund">#dea7ffeb</color>
+    <color name="form_background">#dea7ffeb</color>
     <color name="hint_text">#FF3B3838</color>
 </resources>
