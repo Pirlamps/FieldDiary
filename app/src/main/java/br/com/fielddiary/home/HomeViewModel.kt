@@ -14,8 +14,7 @@ class HomeViewModel : ViewModel() {
 
     private val user = FirebaseAuth.getInstance().currentUser!!
     private val dbRef = FirebaseDatabase.getInstance().getReference("growths/${user.uid}")
-
-
+    
     init {
         dbRef.addValueEventListener(object : ValueEventListener {
             override fun onCancelled(p0: DatabaseError?) {
